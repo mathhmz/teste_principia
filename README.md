@@ -6,7 +6,6 @@ Você foi atarefado de subir no sistema novos clientes. Esses clientes devem ser
 - O cliente possui nome completo ?
 - A data de nascimento é válida? É uma idade possível? (Maiores de 17 anos)
 - O email é válido?
-- O CEP é valido? Ele bate com o endereço informado? Bate com o estado informado?
 - O Telefone informado esta no formato certo?
 
 Após essas verificações lhe foi dado um modelo da base que se encontra em um determinado sistema ("sistema.xlsx"), os clientes que você recebeu são novos clientes? Quem já está na base? É necessário atualizar os dados? 
