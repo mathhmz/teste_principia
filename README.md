@@ -7,6 +7,7 @@ Você foi atarefado de subir no sistema novos clientes. Esses clientes devem ser
 - A data de nascimento é válida? É uma idade possível? (Maiores de 17 anos)
 - O email é válido?
 - O Telefone informado esta no formato certo?
+- Valide o CEP e Endereço informados, utlizando-se da API: https://viacep.com.br/
 
 Após essas verificações lhe foi dado um modelo da base que se encontra em um determinado sistema ("sistema.xlsx"), os clientes que você recebeu são novos clientes? Quem já está na base? É necessário atualizar os dados? 
 
@@ -14,14 +15,8 @@ Ao final do exercício desejamos algumas coisas; um arquivo.py do script que ser
 
 Notas:
 
-o "TIPO" no arquivo JSON se refere se é um cliente de inserção (I) ou de atualização (A).
+o "tipo" no arquivo JSON se refere se é um cliente de inserção (I) ou de atualização (A).
 
 o "id" do cliente segue a convenção: faculdade-cpf
-
-*DESAFIO BÔNUS:*
-
-Sua entrega não é obrigatória mas aquele que conseguir terá um grande destaque no final. 
-
-- Valide o CEP e Endereço informados, utlizando-se da API: https://viacep.com.br/
 
 Boa sorte!
